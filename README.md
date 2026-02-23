@@ -20,11 +20,10 @@
 - [Dependencias](#dependencias)
 - [Algoritmo](#algoritmo)
 - [Arquitectura](#arquitectura)
-- [Componentes Principales](#directorio-src)
 
 ## Introducción
-El repositorio es un pipeline ETL en Python para procesar los archivos XML, es el primer paso para el desarrollo del trabajo fin de master (Modelo Predictivo para Estimar Ventas y Estacionalidad a partir de Facturación Electrónica).
 
+El repositorio es un pipeline ETL en Python para procesar los archivos XML, es el primer paso para el desarrollo del trabajo fin de master (Modelo Predictivo para Estimar Ventas y Estacionalidad a partir de Facturación Electrónica).
 
 ## Objetivo
 
